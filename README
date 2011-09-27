@@ -1,0 +1,15 @@
+======
+README
+======
+
+Refrences:
+The board is based in the previous design of Marc Boon: http://marcboon.com/
+
+Nots:
+- Eagle files.
+- Check the DRC check rules and polygon properties depending on the implementation method.
+
+
+TODO:
+- Correct the cap C9.
+- Don´t use the pin headers as vias.
