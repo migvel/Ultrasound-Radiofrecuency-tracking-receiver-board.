@@ -5,7 +5,7 @@ README
 References:
 The board is based in the previous design of Marc Boon: http://marcboon.com/
 
-Nots:
+Notes:
 - Eagle files.
 - Check the DRC check rules and polygon properties depending on the implementation method.
 
